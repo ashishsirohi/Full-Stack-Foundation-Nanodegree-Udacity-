@@ -1,4 +1,4 @@
-fullstack-nanodegree-vm
+Udacity Course for fullstack-nanodegree-vm
 =============
+This repo contains solutions of all the tasks, assignments given during the course.
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
