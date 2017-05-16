@@ -4,8 +4,10 @@
 
 		<form action="{{url_for('newMenuItem', restaurant_id=restaurant_id)}}" method='post'>
 
-			<p>Name:</p>
-			<input type='text' size='30' name='name'>
+			<input type='text' size='30' name='name' placeholder='Enter Name'></br>
+			<input type='text' size='30' name='desc' placeholder='Enter Description'></br>
+			<input type='text' size='30' name='price' placeholder='Enter Price'></br>
+			<input type='text' size='30' name='course' placeholder='Enter Course Type e.g. Entree'></br>
 			<input type='submit' value='Create'>
 		</form>
 	</body>
